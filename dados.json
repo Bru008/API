@@ -9,9 +9,9 @@
 
 {
     "id": 2,
-    "name2": "Ordem Paranormal",
-    "livro2": "Ordem Paranormal Vol.2 - O Segredo na Floresta",
-    "style2": "HQ",
-    "price2": "R$: 129,90",
-    "image2": "<img src='img/hq.png' width='300px'>"
+    "name": "Ordem Paranormal",
+    "livro": "Ordem Paranormal Vol.2 - O Segredo na Floresta",
+    "style": "HQ",
+    "price": "R$: 129,90",
+    "image": "<img src='img/hq.png' width='300px'>"
 }
