@@ -6,12 +6,3 @@
     "price": "R$: 129,90",
     "image": "<img src='img/ordem.png' width='300px'>"
 }
-
-{
-    "id": 2,
-    "name": "Ordem Paranormal",
-    "livro": "Ordem Paranormal Vol.2 - O Segredo na Floresta",
-    "style": "HQ",
-    "price": "R$: 129,90",
-    "image": "<img src='img/hq.png' width='300px'>"
-}
